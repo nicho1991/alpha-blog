@@ -40,3 +40,6 @@ yarn-debug.log*
 .yarn-integrity
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/alpha-blog.iml
+.idea/misc.xml
+.idea/modules.xml
