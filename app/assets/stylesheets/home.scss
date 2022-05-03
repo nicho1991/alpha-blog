@@ -1,0 +1,10 @@
+#home-container {
+  margin-top: 5px;
+}
+
+.jumbotron {
+  background-image: asset-url('home-image.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
